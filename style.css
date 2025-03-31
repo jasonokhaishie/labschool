@@ -1,0 +1,16 @@
+ li {
+ color: white;
+ list-style: none;
+ }
+
+  .nav {
+    display:flex ;
+    justify-content: space-between;
+    padding: 10px;
+    background-color:#3BA0CC ;
+  }
+  
+  .menu{
+display: flex;
+gap: 5px;
+  }
