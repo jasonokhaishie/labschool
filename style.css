@@ -14,3 +14,16 @@
 display: flex;
 gap: 5px;
   }
+
+  .hero{
+    background-color:#3BA0CC ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+  }
+
+   .schools{
+    display: flex;
+    gap: 20px;
+   }
