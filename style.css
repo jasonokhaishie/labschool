@@ -23,7 +23,12 @@ gap: 5px;
    align-items: center;
   }
 
-   .schools{
+img {
+    border-radius: 50%;
+}
+   
+
+.schools{
     display: flex;
     gap: 20px;
    }
