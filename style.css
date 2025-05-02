@@ -1,34 +1,119 @@
  li {
  color: white;
  list-style: none;
+
  }
 
   .nav {
     display:flex ;
     justify-content: space-between;
-    padding: 10px;
-    background-color:#3BA0CC ;
+    padding: 10px 100px;
+    max-width: 1600px;
+  
+    width: 100%;
   }
   
   .menu{
 display: flex;
-gap: 5px;
+gap: 20px;
   }
 
-  .hero{
+  .hero { height: 100vh;
     background-color:#3BA0CC ;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-   align-items: center;
+    justify-content: flex-start;
+   align-items:center;
+   background-image :url(background\ \(1\).png) ;
+   background-repeat: no-repeat;
+   background-size: cover;
   }
-
-img {
-    border-radius: 50%;
-}
-   
 
 .schools{
     display: flex;
-    gap: 20px;
+    gap: 100px;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+     line-height: 100%;
    }
+
+   .row{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    color: white
+   }
+
+   .poeple{
+    border-radius: 100px;
+   }
+
+
+   .log{
+  color: white;
+font-size: 120px;
+font-weight: 700;
+
+   }
+
+.button{
+ background-color:  #F36B37;
+ padding:10px 20px ;
+border: none;
+border-radius: 22px;
+font-size: 14px;
+font-weight: 600;
+  }
+
+  .para{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    width: 470px;
+    height: 54px;
+    text-align: center;
+
+  }
+
+  .tutorial{
+    background-color: #F36B37;
+ font-weight: 400;
+ font-size: 20px;
+ line-height: 33.6px;
+  }
+
+  .Harry{
+    border-radius: 80px;
+  }
+
+  .popular{
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 100%;
+    text-align: center;
+  }
+
+  .purple{
+    color:  #C271FF;  
+  }
+
+  .blue{
+    color: #C271FF;
+    text-align: center;
+  }
+
+  .Free{
+    background-color: #3BA0CC;
+  }
+
+
+  .smile{
+  width: 43.67px;
+ height: 34.35px;
+  }
+
+  .hero{
+ 
+
+  }
