@@ -1,0 +1,4 @@
+javascipt functoin
+alert
+prompt
+comferm
