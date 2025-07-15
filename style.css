@@ -97,6 +97,8 @@ font-weight: 600;
     font-size: 32px;
     line-height: 100%;
     text-align: center;
+    display: flex;
+    gap: 20px;
   }
 
   .purple{
@@ -117,3 +119,17 @@ font-weight: 600;
   width: 43.67px;
  height: 34.35px;
   }
+
+.screen{
+  border: 1px solid white;
+  font-size: 14px;
+
+}
+
+.Phillip{
+  width: 30;
+height: 30;
+top: 261px;
+left: 13px;
+opacity: 1;
+}
